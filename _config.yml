@@ -1,0 +1,28 @@
+name: RebMadPictures
+favicon: null
+layout_spectrum: 0.907490226905793
+typography_spectrum: 0.09790409100241959
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3937138901092112
+  lightness: 0.5691113208886236
+  saturation: 0.10852099978365004
+  rhythmicContrast: 0.7813279049005359
+purpose: []
